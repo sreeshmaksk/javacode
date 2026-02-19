@@ -1,4 +1,4 @@
-package package1;
+package package2;
 
 public class Assignment2 {
 
@@ -8,8 +8,10 @@ public class Assignment2 {
 		short b=32767;
 		int c=2147483647;
 		long d=9223372036854775807l;
-		float e=3.098989898909090576876877789890808989890890898989898876676656543323212123f;
-		
+		float e=3.68f;
+		double f=4.899887979878787987878;
+		char g='u';
+		String str="ashwini";
 		// TODO Auto-generated method stub
 
 	}
